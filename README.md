@@ -1,5 +1,5 @@
 # Blackjack
-This is the game Blackjack created in JavaScript with OOP.
+This is the game Blackjack. Project was realised druring a course "Object Oriented JavaScript Programming".
 
 Enter this link to play: https://kamilstach370.github.io/Blackjack/
 
